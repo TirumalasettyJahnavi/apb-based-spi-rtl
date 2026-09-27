@@ -214,6 +214,14 @@ Possible future improvements include:
 * UVM-based verification environment
 * Synthesis and timing analysis
 
+## Simulation Results
+
+The APB-based SPI RTL design was functionally simulated using Icarus Verilog. The resulting waveforms were analyzed using GTKWave.
+
+### Final Simulation Waveform
+
+![APB-Based SPI Simulation Waveform](results/waveform.png)
+
 ## Author
 
 **TirumalasettyJahnavi**
