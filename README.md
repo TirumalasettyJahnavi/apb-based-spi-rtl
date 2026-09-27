@@ -92,12 +92,16 @@ The project contains dedicated testbenches for individual RTL modules as well as
 
 ### Testbenches
 
-tb
+### Testbenches
+
+```text
+tb/
 ├── apb_slave_interface_tb.v
 ├── baud_rate_generator_tb.v
 ├── shift_register_tb.v
 ├── slave_control_select_tb.v
 └── top_module_tb.v
+```
 
 Verification includes:
 
@@ -112,6 +116,7 @@ Verification includes:
 
 ## Project Structure
 
+```text
 apb-based-spi-rtl/
 │
 ├── rtl/
@@ -130,6 +135,8 @@ apb-based-spi-rtl/
 │
 ├── .gitignore
 └── README.md
+```
+
 
 ## Tools Used
 
