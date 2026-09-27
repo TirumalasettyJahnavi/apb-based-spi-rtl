@@ -1,0 +1,23 @@
+# Icarus Verilog
+*.vvp
+
+# Waveform files
+*.vcd
+
+# QuestaSim
+work/
+transcript
+*.wlf
+
+# Simulation logs
+*.log
+
+# Temporary files
+*.tmp
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
